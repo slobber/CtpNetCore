@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CtpNetCore", "CtpNetCore\CtpNetCore.csproj", "{2DEADE68-704A-45E9-B06A-B8CDB862DABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{8EB97829-8B57-4A97-B46D-D131960E9FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DEADE68-704A-45E9-B06A-B8CDB862DABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DEADE68-704A-45E9-B06A-B8CDB862DABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DEADE68-704A-45E9-B06A-B8CDB862DABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DEADE68-704A-45E9-B06A-B8CDB862DABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EB97829-8B57-4A97-B46D-D131960E9FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB97829-8B57-4A97-B46D-D131960E9FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB97829-8B57-4A97-B46D-D131960E9FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB97829-8B57-4A97-B46D-D131960E9FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8C8BD96-2CA5-4140-85AC-949F36F1F1CC}
+	EndGlobalSection
+EndGlobal
